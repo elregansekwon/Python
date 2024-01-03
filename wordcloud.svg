@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'NanumMyeongjo';font-weight:bold;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(108,171)" font-size="166" style="fill:rgb(69, 55, 129)">팝</text>
+<text transform="translate(267,125)" font-size="138" style="fill:rgb(69, 56, 130)">팬</text>
+<text transform="translate(235,186)" font-size="57" style="fill:rgb(53, 94, 141)">콘서트</text>
+<text transform="translate(11,57)" font-size="52" style="fill:rgb(44, 114, 142)">사진</text>
+<text transform="translate(2,172)" font-size="52" style="fill:rgb(32, 163, 134)">그룹</text>
+<text transform="translate(10,119)" font-size="51" style="fill:rgb(31, 160, 136)">데뷔</text>
+<text transform="translate(103,40)" font-size="48" style="fill:rgb(51, 98, 141)">세계</text>
+<text transform="translate(101,178)" font-size="47" style="fill:rgb(72, 41, 121)">원</text>
+<text transform="translate(236,133)" font-size="35" style="fill:rgb(56, 185, 119)">문화</text>
+<text transform="translate(266,73) rotate(-90)" font-size="35" style="fill:rgb(72, 37, 118)">공연</text>
+<text transform="translate(273,24)" font-size="28" style="fill:rgb(60, 80, 139)">무대</text>
+<text transform="translate(8,194)" font-size="28" style="fill:rgb(76, 194, 108)">서울</text>
+<text transform="translate(68,196)" font-size="16" style="fill:rgb(38, 130, 142)">더보이즈</text>
+<text transform="translate(191,28)" font-size="16" style="fill:rgb(218, 227, 25)">미국</text>
+<text transform="translate(1,62)" font-size="15" style="fill:rgb(46, 109, 142)">잼버리</text>
+<text transform="translate(283,196)" font-size="12" style="fill:rgb(155, 217, 60)">스카우트</text>
+<text transform="translate(1,129)" font-size="12" style="fill:rgb(49, 103, 142)">뉴진스</text>
+<text transform="translate(4,160)" font-size="12" style="fill:rgb(31, 149, 139)">행사</text>
+<text transform="translate(342,122)" font-size="12" style="fill:rgb(48, 105, 142)">베이스</text>
+<text transform="translate(63,13)" font-size="12" style="fill:rgb(70, 48, 126)">한국</text>
+<text transform="translate(395,87) rotate(-90)" font-size="12" style="fill:rgb(33, 144, 141)">몽블랑</text>
+<text transform="translate(102,81)" font-size="12" style="fill:rgb(68, 1, 84)">제로</text>
+<text transform="translate(100,133)" font-size="12" style="fill:rgb(92, 200, 99)">기자</text>
+<text transform="translate(180,165)" font-size="12" style="fill:rgb(157, 217, 59)">시작</text>
+<text transform="translate(102,49)" font-size="12" style="fill:rgb(32, 163, 134)">말</text>
+<text transform="translate(176,136)" font-size="12" style="fill:rgb(208, 225, 28)">대표</text>
+<text transform="translate(172,194)" font-size="12" style="fill:rgb(76, 194, 108)">아이브</text>
+<text transform="translate(115,97)" font-size="12" style="fill:rgb(244, 230, 30)">대원</text>
+<text transform="translate(2,12)" font-size="12" style="fill:rgb(40, 174, 128)">아이돌</text>
+<text transform="translate(5,78)" font-size="12" style="fill:rgb(55, 90, 140)">음악</text>
+<text transform="translate(52,62)" font-size="12" style="fill:rgb(64, 189, 114)">진행</text>
+<text transform="translate(63,75)" font-size="12" style="fill:rgb(41, 175, 127)">차트</text>
+<text transform="translate(195,81)" font-size="12" style="fill:rgb(47, 107, 142)">이번</text>
+<text transform="translate(128,194)" font-size="12" style="fill:rgb(68, 58, 131)">앨범</text>
+<text transform="translate(141,172)" font-size="12" style="fill:rgb(66, 190, 113)">표</text>
+<text transform="translate(395,49) rotate(-90)" font-size="12" style="fill:rgb(61, 78, 138)">아티스트</text>
+<text transform="translate(269,75)" font-size="12" style="fill:rgb(32, 163, 134)">올해</text>
+<text transform="translate(144,46)" font-size="12" style="fill:rgb(155, 217, 60)">키즈</text>
+<text transform="translate(328,102)" font-size="12" style="fill:rgb(189, 223, 38)">팀</text>
+<text transform="translate(194,96)" font-size="12" style="fill:rgb(37, 133, 142)">사업</text>
+<text transform="translate(393,121) rotate(-90)" font-size="12" style="fill:rgb(65, 68, 135)">새만금</text>
+<text transform="translate(294,164) rotate(-90)" font-size="12" style="fill:rgb(41, 121, 142)">출연</text>
+<text transform="translate(170,105) rotate(-90)" font-size="12" style="fill:rgb(34, 139, 141)">글로벌</text>
+<text transform="translate(12,115) rotate(-90)" font-size="12" style="fill:rgb(71, 45, 123)">참여</text>
+<text transform="translate(353,196)" font-size="12" style="fill:rgb(82, 197, 105)">스트레이</text>
+<text transform="translate(243,101)" font-size="12" style="fill:rgb(248, 230, 33)">가수</text>
+<text transform="translate(193,10)" font-size="10" style="fill:rgb(213, 226, 26)">스타일</text>
+<text transform="translate(292,28)" font-size="10" style="fill:rgb(31, 160, 136)">전시</text>
+<text transform="translate(330,11)" font-size="10" style="fill:rgb(32, 146, 140)">엔터</text>
+<text transform="translate(264,181)" font-size="10" style="fill:rgb(78, 195, 107)">세대</text>
+<text transform="translate(123,136)" font-size="10" style="fill:rgb(32, 146, 140)">기록</text>
+<text transform="translate(332,71)" font-size="10" style="fill:rgb(64, 69, 136)">리</text>
+<text transform="translate(1,30)" font-size="10" style="fill:rgb(68, 2, 86)">개최</text>
+<text transform="translate(90,176)" font-size="10" style="fill:rgb(32, 146, 140)">발매</text>
+<text transform="translate(223,197)" font-size="7" style="fill:rgb(71, 13, 96)">서울월드컵경기장</text>
+<text transform="translate(105,105)" font-size="7" style="fill:rgb(70, 10, 93)">축제</text>
+<text transform="translate(32,71)" font-size="7" style="fill:rgb(34, 139, 141)">라이브</text>
+<text transform="translate(312,182)" font-size="7" style="fill:rgb(63, 72, 137)">배우</text>
+<text transform="translate(223,20)" font-size="7" style="fill:rgb(52, 97, 141)">인</text>
+<text transform="translate(238,8)" font-size="7" style="fill:rgb(59, 81, 139)">챌린지</text>
+<text transform="translate(266,101)" font-size="7" style="fill:rgb(32, 164, 134)">빌보드</text>
+<text transform="translate(343,159) rotate(-90)" font-size="7" style="fill:rgb(35, 169, 131)">오후</text>
+<text transform="translate(189,122)" font-size="7" style="fill:rgb(71, 16, 99)">예정</text>
+<text transform="translate(95,9)" font-size="7" style="fill:rgb(70, 50, 126)">이날</text>
+<text transform="translate(85,70)" font-size="7" style="fill:rgb(58, 83, 139)">팬덤</text>
+<text transform="translate(273,58)" font-size="7" style="fill:rgb(37, 171, 130)">티켓</text>
+<text transform="translate(47,9)" font-size="7" style="fill:rgb(64, 189, 114)">해외</text>
+<text transform="translate(55,116)" font-size="7" style="fill:rgb(210, 226, 27)">슈퍼</text>
+<text transform="translate(281,139)" font-size="7" style="fill:rgb(31, 152, 139)">콘</text>
+<text transform="translate(362,7)" font-size="7" style="fill:rgb(68, 2, 86)">지난해</text>
+<text transform="translate(345,167)" font-size="7" style="fill:rgb(64, 189, 114)">강</text>
+<text transform="translate(256,39)" font-size="7" style="fill:rgb(33, 142, 141)">시간</text>
+<text transform="translate(363,53) rotate(-90)" font-size="7" style="fill:rgb(43, 117, 142)">관련</text>
+<text transform="translate(152,125)" font-size="7" style="fill:rgb(58, 83, 139)">컬렉션</text>
+<text transform="translate(38,131)" font-size="7" style="fill:rgb(31, 152, 139)">체험</text>
+<text transform="translate(53,124)" font-size="7" style="fill:rgb(194, 223, 35)">카카오</text>
+<text transform="translate(142,148)" font-size="7" style="fill:rgb(213, 226, 26)">활동</text>
+<text transform="translate(222,28)" font-size="7" style="fill:rgb(61, 188, 116)">입장</text>
+<text transform="translate(92,141)" font-size="7" style="fill:rgb(99, 203, 95)">스타</text>
+<text transform="translate(313,79) rotate(-90)" font-size="7" style="fill:rgb(197, 224, 33)">프로그램</text>
+<text transform="translate(3,196)" font-size="7" style="fill:rgb(72, 27, 109)">플랫폼</text>
+<text transform="translate(298,140)" font-size="7" style="fill:rgb(62, 73, 137)">핑크</text>
+<text transform="translate(397,148) rotate(-90)" font-size="7" style="fill:rgb(31, 160, 136)">케이팝</text>
+<text transform="translate(114,46)" font-size="7" style="fill:rgb(168, 219, 52)">현장</text>
+<text transform="translate(364,88) rotate(-90)" font-size="7" style="fill:rgb(149, 216, 64)">걸그룹</text>
+<text transform="translate(149,197)" font-size="7" style="fill:rgb(66, 65, 134)">판매량</text>
+<text transform="translate(15,146)" font-size="7" style="fill:rgb(49, 103, 142)">부스</text>
+<text transform="translate(105,96)" font-size="7" style="fill:rgb(72, 36, 117)">곡</text>
+<text transform="translate(144,19)" font-size="7" style="fill:rgb(43, 117, 142)">제품</text>
+<text transform="translate(60,98) rotate(-90)" font-size="7" style="fill:rgb(58, 83, 139)">케이콘</text>
+<text transform="translate(355,142)" font-size="6" style="fill:rgb(39, 127, 142)">몬스타엑스</text>
+<text transform="translate(340,177)" font-size="4" style="fill:rgb(63, 71, 136)">엔터테인먼트</text>
+<text transform="translate(124,172)" font-size="4" style="fill:rgb(52, 96, 141)">다양</text>
+<text transform="translate(335,187)" font-size="4" style="fill:rgb(38, 130, 142)">운영</text>
+<text transform="translate(185,142)" font-size="4" style="fill:rgb(69, 53, 129)">안전</text>
+<text transform="translate(144,158)" font-size="4" style="fill:rgb(68, 57, 131)">직원</text>
+<text transform="translate(35,194) rotate(-90)" font-size="4" style="fill:rgb(55, 90, 140)">확인</text>
+<text transform="translate(5,36)" font-size="4" style="fill:rgb(69, 55, 129)">보이</text>
+<text transform="translate(332,53)" font-size="4" style="fill:rgb(68, 57, 131)">멤버</text>
+<text transform="translate(284,183)" font-size="4" style="fill:rgb(38, 130, 142)">음반</text>
+<text transform="translate(337,197)" font-size="4" style="fill:rgb(32, 147, 140)">가능</text>
+<text transform="translate(303,183)" font-size="4" style="fill:rgb(61, 77, 138)">일</text>
+<text transform="translate(86,125)" font-size="4" style="fill:rgb(53, 183, 121)">주</text>
+<text transform="translate(128,83)" font-size="4" style="fill:rgb(70, 51, 127)">선정</text>
+<text transform="translate(171,48)" font-size="4" style="fill:rgb(32, 147, 140)">브랜드</text>
+<text transform="translate(176,120)" font-size="4" style="fill:rgb(32, 146, 140)">조</text>
+<text transform="translate(35,29)" font-size="4" style="fill:rgb(71, 42, 122)">현지</text>
+<text transform="translate(328,120)" font-size="4" style="fill:rgb(34, 140, 141)">게임</text>
+<text transform="translate(234,147)" font-size="4" style="fill:rgb(72, 41, 121)">텐트</text>
+<text transform="translate(56,23) rotate(-90)" font-size="4" style="fill:rgb(61, 78, 138)">온라인</text>
+<text transform="translate(203,116)" font-size="4" style="fill:rgb(71, 44, 122)">아이</text>
+<text transform="translate(59,176) rotate(-90)" font-size="4" style="fill:rgb(42, 119, 142)">있지</text>
+<text transform="translate(146,5)" font-size="4" style="fill:rgb(184, 222, 41)">제로베이스원</text>
+<text transform="translate(208,53)" font-size="4" style="fill:rgb(55, 91, 141)">투표</text>
+<text transform="translate(261,45)" font-size="4" style="fill:rgb(70, 11, 94)">블랙</text>
+<text transform="translate(305,95)" font-size="4" style="fill:rgb(115, 208, 86)">엔씨소프트</text>
+<text transform="translate(3,182)" font-size="4" style="fill:rgb(78, 195, 107)">노래</text>
+<text transform="translate(204,162)" font-size="4" style="fill:rgb(74, 193, 109)">주목</text>
+<text transform="translate(106,117) rotate(-90)" font-size="4" style="fill:rgb(31, 162, 135)">이유</text>
+<text transform="translate(98,67)" font-size="4" style="fill:rgb(48, 106, 142)">방탄소년단</text>
+<text transform="translate(271,25)" font-size="4" style="fill:rgb(236, 229, 27)">하이브</text>
+<text transform="translate(199,135)" font-size="4" style="fill:rgb(68, 191, 112)">처음</text>
+<text transform="translate(58,148) rotate(-90)" font-size="4" style="fill:rgb(69, 56, 130)">인기</text>
+<text transform="translate(365,106) rotate(-90)" font-size="4" style="fill:rgb(42, 120, 142)">컨벤션</text>
+<text transform="translate(197,141)" font-size="4" style="fill:rgb(54, 92, 141)">셔누</text>
+<text transform="translate(240,188) rotate(-90)" font-size="4" style="fill:rgb(69, 5, 89)">수</text>
+<text transform="translate(202,168)" font-size="4" style="fill:rgb(129, 211, 77)">마포구</text>
+<text transform="translate(390,173)" font-size="4" style="fill:rgb(43, 117, 142)">패션</text>
+<text transform="translate(365,177)" font-size="4" style="fill:rgb(68, 1, 84)">인스타그램</text>
+<text transform="translate(330,125)" font-size="4" style="fill:rgb(61, 77, 138)">유니버스</text>
+<text transform="translate(299,112)" font-size="4" style="fill:rgb(72, 26, 108)">한류</text>
+<text transform="translate(393,51)" font-size="4" style="fill:rgb(41, 121, 142)">전</text>
+<text transform="translate(208,196)" font-size="4" style="fill:rgb(69, 53, 129)">유튜브</text>
+<text transform="translate(269,138)" font-size="4" style="fill:rgb(71, 47, 125)">장소</text>
+<text transform="translate(156,67)" font-size="4" style="fill:rgb(47, 108, 142)">주자</text>
+<text transform="translate(319,152)" font-size="4" style="fill:rgb(78, 195, 107)">마련</text>
+<text transform="translate(212,64) rotate(-90)" font-size="4" style="fill:rgb(32, 147, 140)">대중</text>
+<text transform="translate(121,106)" font-size="4" style="fill:rgb(117, 208, 84)">훈장</text>
+<text transform="translate(58,190)" font-size="4" style="fill:rgb(181, 222, 43)">이름</text>
+<text transform="translate(124,73)" font-size="4" style="fill:rgb(160, 218, 57)">더</text>
+<text transform="translate(98,197)" font-size="4" style="fill:rgb(72, 20, 103)">센터</text>
+<text transform="translate(236,75)" font-size="4" style="fill:rgb(55, 184, 120)">기대</text>
+<text transform="translate(193,45)" font-size="4" style="fill:rgb(72, 36, 117)">기간</text>
+<text transform="translate(94,28) rotate(-90)" font-size="4" style="fill:rgb(72, 28, 110)">증가</text>
+<text transform="translate(132,105)" font-size="4" style="fill:rgb(33, 165, 133)">변경</text>
+<text transform="translate(368,165)" font-size="4" style="fill:rgb(33, 142, 141)">마마무</text>
+<text transform="translate(222,10)" font-size="4" style="fill:rgb(239, 229, 28)">다니엘</text>
+<text transform="translate(93,148)" font-size="4" style="fill:rgb(52, 97, 141)">영상</text>
+<text transform="translate(63,30)" font-size="4" style="fill:rgb(82, 197, 105)">마음</text>
+<text transform="translate(235,161)" font-size="4" style="fill:rgb(36, 135, 142)">션</text>
+<text transform="translate(48,156) rotate(-90)" font-size="4" style="fill:rgb(31, 154, 138)">아이스버킷</text>
+<text transform="translate(16,115)" font-size="4" style="fill:rgb(52, 96, 141)">현대자동차</text>
+<text transform="translate(273,48)" font-size="4" style="fill:rgb(31, 160, 136)">동화</text>
+<text transform="translate(206,31)" font-size="4" style="fill:rgb(72, 28, 110)">공동</text>
+<text transform="translate(144,178)" font-size="4" style="fill:rgb(32, 164, 134)">마지막</text>
+<text transform="translate(297,178)" font-size="4" style="fill:rgb(51, 99, 141)">날</text>
+<text transform="translate(1,46)" font-size="4" style="fill:rgb(70, 192, 111)">다음</text>
+<text transform="translate(337,142)" font-size="4" style="fill:rgb(74, 193, 109)">당시</text>
+<text transform="translate(172,37) rotate(-90)" font-size="4" style="fill:rgb(139, 214, 70)">모습</text>
+<text transform="translate(92,11) rotate(-90)" font-size="4" style="fill:rgb(47, 180, 124)">여자</text>
+</svg>
